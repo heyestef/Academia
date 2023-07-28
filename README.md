@@ -1,4 +1,4 @@
-# Academia
+# Python
 
 Lab Activity 1: Variables and Control Flow
 
